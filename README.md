@@ -1,3 +1,3 @@
 # groovy-aws-sdk-s3
 
-Groovy library used by the plugin: [Grails AWS SDK S3](https://github.com/agorapulse/grails-aws-sdk-s3)
+This repo has been migrated to the main [AWS SDK Grails Plugin](https://github.com/agorapulse/grails-aws-sdk) repo.
